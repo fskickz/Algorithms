@@ -106,3 +106,5 @@ Og fortsette slik igjen
 * Komplisert algoritme med mange fallgruver i implementering sammenliknet med de andre.
 * Treg worst-case
 * Ustabil
+
+![](/fig/Array-sorting.png)
